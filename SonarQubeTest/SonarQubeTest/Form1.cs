@@ -14,7 +14,7 @@ namespace SonarQubeTest
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();  
         }
     }
 }
